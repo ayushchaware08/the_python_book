@@ -6,6 +6,7 @@ TOPICS COVERED
 2. Packages and BuildIn Functions
 3. Operators
 4. Playing with Datetime Dataset
-5. List
-6. Tupple
-7. Dictionary
+5. List - [_]
+6. Tupple- (--)
+7. Dictionary {'key':'Value',...}
+8. Sets {'--"} (unique)
