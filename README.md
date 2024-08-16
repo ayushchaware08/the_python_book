@@ -1,5 +1,5 @@
 # The Python Book
-The_Python_Book (Suggested by Aman Khapre) 
+The_Python_Book
 
 ### TOPICS COVERED
 1. Intro to Python
